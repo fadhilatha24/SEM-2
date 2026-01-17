@@ -9,7 +9,7 @@ In the future, I plan to strengthen my fundamentals in system design and project
 prepare myself for real-world industry challenges.
 
 ## Academic Writing
-[Academic Writing Report](SECP1513/ACADEMIC_WRITING.pdf)
+[Academic Writing Report](ACADEMIC_WRITING.pdf)
 
 ## Photo
 <img width="561" height="618" alt="image" src="https://github.com/user-attachments/assets/fcb077a1-8b2a-4ae7-a445-bb873fcbfda3" />
