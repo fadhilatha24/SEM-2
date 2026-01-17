@@ -1,4 +1,4 @@
-# Assignment 1 : UTMDigital Open Day Videod
+# Assignment 1 : UTMDigital Open Day Video
 DATE : 29 October 2025
 
 ## Reflection
