@@ -8,4 +8,11 @@ I plan to further improve my potential in the industry by strengthening my skill
 design thinking process, as these skills will be frequently applied in future courses and professional practice.
 
 ## Project Report
-[Report]()
+[Report](Design_Thinking_Project_Report.pdf)
+
+## Links
+[Smartwatch Prototype](https://detail-proxy-82176953.figma.site)
+
+[Mobile App Prototype](https://morse-skirr-77589695.figma.site)
+
+[Website Prototype](https://www.figma.com/make/rfsAA7nfa7d5qSdyL1H5hg/Website?p=f&t=MERKni579f8dvtxn-0&fullscreen=1)
